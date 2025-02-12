@@ -1,4 +1,5 @@
 import PropTypes from 'prop-types';
+
 import './MovieCard.scss';
 
 export const MovieCard = ({ movie }) => (
